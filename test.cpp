@@ -28,5 +28,6 @@ int main(int argc, const char * argv[]) {
 		cout << "Here" << endl;
 		AcceptVal(ReturnRvalue());
 		    return 0;
+		returnt 0;
 }
 
