@@ -1,2 +1,5 @@
 This is dev Text
+<<<<<<< HEAD
 I have add text
+LT add this word
+LT add this word again
